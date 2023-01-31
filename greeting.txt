@@ -3,3 +3,5 @@ Hello and good morning!
 Halló og góðan daginn!
 
 こんいちわ！
+
+A new line has been created
