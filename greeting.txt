@@ -1,7 +1,7 @@
 HELLO AND GOOD MORNING!
 
-HALLÓ OG GÓÐAN DAGINN!
+HALLÓ OG GÓÐAN DAGINN?
 
-こんいちわ！
+こんいちわ?
 
 A new line has been created
